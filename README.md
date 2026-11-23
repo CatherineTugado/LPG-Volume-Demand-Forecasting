@@ -25,7 +25,7 @@ I forecast weekly orders for each plant, 4 weeks ahead, and compared the forecas
 | Unmet demand at the same overproduction | **30% less** | **18% less** |
 | December 2025 unmet demand | 348 t to **14 t** | 15.0k to **5.5k** cases |
 
-**What I learned**
+**Highlights**
 - **Forecast orders, not withdrawals.** Withdrawals are capped by stock, so training on them hides the demand lost to stockouts.
 - **Canisters need their own plan.** They peak in typhoon season as well as December, and typhoon weeks cannot be predicted 4 weeks ahead. I recommend a monthly canister plan, building stock before July, and an override when PAGASA issues a typhoon warning.
 - The forecast becomes a concrete plan: **cylinders per size** for LPG B2C and **cases** for canisters. B2B volume is added from the SPANCOP pipeline (Order and Payment stages as firm volume).
@@ -55,19 +55,3 @@ I forecast weekly orders for each plant, 4 weeks ahead, and compared the forecas
 └── requirements.txt
 ```
 
-## How to run
-
-```bash
-git clone https://github.com/CatherineTugado/lpg-canister-demand-forecasting.git
-cd lpg-canister-demand-forecasting
-python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-
-PYTHONPATH=src python -m lpg.simulate --seed 7     # regenerate the data (optional)
-PYTHONPATH=src pytest -q
-jupyter notebook notebooks/
-```
-
-## About me
-
-I'm Catherine Tugado, a data scientist with a physics background, working in LPG and energy. I build forecasting, customer analytics and geospatial models that plant, sales and finance teams use. [LinkedIn](https://linkedin.com/in/catherinetugado)
