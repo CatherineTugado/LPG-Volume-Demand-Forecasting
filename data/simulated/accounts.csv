@@ -1,0 +1,620 @@
+account_id,region,island_group,plant,segment,product_line,business_type,distance_km,onboard_date
+D0001,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,53,2023-01-01
+D0002,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,67,2025-06-11
+D0003,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,70,2023-01-01
+D0004,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,32,2023-02-04
+D0005,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,57,2023-01-01
+D0006,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,37,2023-01-01
+D0007,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,47,2023-01-01
+D0008,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,61,2023-01-01
+D0009,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,36,2023-01-01
+D0010,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,71,2023-01-01
+D0011,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,70,2023-01-01
+D0012,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,63,2023-01-01
+D0013,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,57,2023-01-01
+D0014,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,69,2023-01-01
+D0015,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,70,2023-07-31
+D0016,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,55,2025-07-26
+D0017,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,59,2023-01-01
+D0018,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,70,2023-01-01
+D0019,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,40,2023-01-01
+D0020,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,46,2023-01-01
+D0021,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,63,2023-01-01
+D0022,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,67,2023-01-01
+D0023,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,47,2024-07-22
+D0024,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,30,2025-01-11
+D0025,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,33,2023-01-01
+D0026,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,36,2024-09-15
+D0027,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,57,2023-01-01
+D0028,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,48,2023-01-01
+D0029,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,60,2023-05-02
+D0030,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,54,2023-04-05
+D0031,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,49,2023-01-01
+D0032,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,56,2024-08-13
+D0033,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,61,2023-01-01
+D0034,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,43,2023-01-01
+D0035,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,53,2023-01-01
+D0036,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,77,2025-06-12
+D0037,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,74,2023-01-01
+D0038,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,72,2023-01-01
+D0039,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,67,2024-03-19
+D0040,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,34,2024-10-13
+D0041,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,28,2023-01-01
+D0042,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,47,2024-09-14
+D0043,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,67,2023-01-01
+D0044,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,45,2023-01-01
+D0045,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,90,2024-04-15
+D0046,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,38,2023-01-01
+D0047,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,55,2023-01-01
+D0048,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,11,2024-06-09
+D0049,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,45,2023-01-01
+D0050,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,60,2023-01-01
+D0051,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,67,2023-01-01
+D0052,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,59,2023-01-01
+D0053,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,65,2023-01-01
+D0054,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,43,2023-01-01
+D0055,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,59,2023-01-01
+D0056,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,83,2023-01-01
+D0057,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,56,2025-02-18
+D0058,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,59,2025-04-06
+D0059,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,54,2023-01-01
+D0060,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,56,2023-01-01
+D0061,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,47,2023-01-01
+D0062,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,55,2025-04-07
+D0063,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,66,2023-01-01
+D0064,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,64,2023-01-01
+D0065,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,76,2023-01-01
+D0066,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,51,2023-11-01
+D0067,NCR,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,74,2023-01-01
+B0068,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Hotel,64,2024-08-26
+B0069,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,88,2023-01-01
+B0070,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,38,2023-01-01
+B0071,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,49,2024-05-02
+B0072,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,59,2023-01-01
+B0073,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Industrial,76,2025-02-15
+B0074,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Industrial,40,2023-01-01
+B0075,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,34,2023-01-01
+B0076,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,63,2023-01-01
+B0077,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,80,2025-03-24
+B0078,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Hotel,98,2023-01-01
+B0079,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,54,2023-01-01
+B0080,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Hotel,52,2023-01-01
+B0081,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Hotel,44,2023-01-01
+B0082,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,50,2023-01-01
+B0083,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,65,2023-01-01
+B0084,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Hotel,59,2023-01-01
+B0085,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,59,2023-01-01
+B0086,NCR,Luzon,PLANT-LUZ,B2B,LPG B2B,Industrial,37,2023-04-24
+C0087,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,47,2023-01-01
+C0088,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,45,2023-01-01
+C0089,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,63,2023-01-01
+C0090,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,44,2023-01-01
+C0091,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,39,2023-01-01
+C0092,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,54,2023-01-01
+C0093,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,75,2023-01-01
+C0094,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,80,2023-01-01
+C0095,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,54,2023-01-01
+C0096,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,59,2023-01-01
+C0097,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,48,2023-01-01
+C0098,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,69,2023-01-01
+C0099,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,45,2023-01-01
+C0100,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,39,2023-01-01
+C0101,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,28,2023-01-01
+C0102,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,54,2023-01-01
+C0103,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,63,2024-03-05
+C0104,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,68,2023-01-01
+C0105,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,65,2023-01-01
+C0106,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,63,2023-07-23
+C0107,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,63,2023-01-01
+C0108,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,65,2023-01-01
+C0109,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,64,2024-01-20
+C0110,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,41,2023-01-01
+C0111,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,74,2023-01-01
+C0112,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,76,2023-01-01
+C0113,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,35,2024-08-31
+C0114,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,51,2023-01-01
+C0115,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,65,2023-01-01
+C0116,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,58,2023-01-01
+C0117,NCR,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,64,2023-01-01
+D0118,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,55,2025-02-12
+D0119,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,44,2025-06-20
+D0120,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,53,2023-01-01
+D0121,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,37,2023-01-01
+D0122,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,39,2023-11-03
+D0123,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,35,2023-01-01
+D0124,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,34,2023-01-01
+D0125,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,37,2023-01-01
+D0126,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,45,2023-01-01
+D0127,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,46,2023-01-01
+D0128,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,52,2023-05-29
+D0129,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,41,2023-01-01
+D0130,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,44,2024-07-24
+D0131,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,27,2023-01-01
+D0132,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,43,2023-01-01
+D0133,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,58,2023-01-01
+D0134,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,64,2023-01-01
+D0135,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,42,2024-07-31
+D0136,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,49,2023-01-01
+D0137,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,19,2023-01-01
+D0138,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,45,2023-01-01
+D0139,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,45,2023-01-01
+D0140,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,43,2023-09-23
+D0141,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,26,2023-01-01
+D0142,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,52,2023-01-01
+D0143,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,41,2023-01-01
+D0144,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,70,2025-04-28
+D0145,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,32,2023-01-01
+D0146,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,62,2023-01-01
+D0147,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,23,2023-01-01
+D0148,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,60,2023-01-01
+D0149,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,51,2023-01-01
+D0150,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,37,2023-01-01
+D0151,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,27,2024-02-19
+D0152,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,22,2024-05-15
+D0153,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,52,2023-01-01
+D0154,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,49,2025-07-12
+D0155,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,29,2023-01-01
+D0156,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,41,2023-01-01
+D0157,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,36,2023-11-16
+D0158,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,39,2023-01-01
+D0159,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,44,2023-01-01
+D0160,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,28,2023-01-01
+D0161,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,53,2025-02-16
+D0162,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,38,2023-01-01
+D0163,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,58,2023-01-01
+D0164,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,72,2023-01-01
+D0165,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,39,2024-10-09
+D0166,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,59,2023-01-01
+D0167,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,68,2023-01-01
+D0168,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,43,2024-06-05
+D0169,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,41,2023-01-01
+D0170,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,54,2023-01-01
+D0171,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,47,2024-10-31
+D0172,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,53,2023-11-28
+D0173,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,56,2023-01-01
+D0174,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,48,2023-01-01
+D0175,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,55,2024-03-21
+D0176,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,39,2023-01-01
+D0177,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,29,2023-09-17
+D0178,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,43,2023-01-01
+D0179,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,40,2023-01-01
+D0180,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,44,2023-01-01
+D0181,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,38,2023-01-01
+D0182,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,58,2023-01-01
+D0183,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,41,2023-01-01
+D0184,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,52,2023-01-01
+D0185,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,52,2023-05-29
+D0186,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,33,2023-01-01
+D0187,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,34,2023-06-08
+D0188,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,43,2025-05-20
+D0189,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,56,2023-01-01
+D0190,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,56,2023-01-01
+D0191,CALABARZON,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,49,2023-01-01
+B0192,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Institution,37,2023-01-01
+B0193,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,24,2023-10-07
+B0194,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,42,2023-01-01
+B0195,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,34,2023-01-01
+B0196,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Industrial,41,2023-01-01
+B0197,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Industrial,34,2023-01-01
+B0198,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Industrial,22,2023-01-01
+B0199,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Industrial,29,2023-01-01
+B0200,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,40,2023-01-01
+B0201,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,40,2023-01-01
+B0202,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,50,2024-02-28
+B0203,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Hotel,36,2023-01-01
+B0204,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Institution,41,2023-01-01
+B0205,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,20,2023-01-01
+B0206,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,37,2024-01-17
+B0207,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,28,2023-01-01
+B0208,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Hotel,38,2025-01-31
+B0209,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,31,2023-01-01
+B0210,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,50,2023-01-01
+B0211,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Industrial,32,2023-01-01
+B0212,CALABARZON,Luzon,PLANT-LUZ,B2B,LPG B2B,Hotel,46,2023-01-01
+C0213,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,36,2023-01-01
+C0214,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,29,2023-01-01
+C0215,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,56,2023-01-01
+C0216,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,51,2023-05-02
+C0217,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,44,2023-01-01
+C0218,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,43,2024-10-30
+C0219,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,35,2023-01-01
+C0220,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,33,2023-01-01
+C0221,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,42,2023-01-01
+C0222,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,41,2023-01-01
+C0223,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,44,2024-04-28
+C0224,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,38,2023-01-01
+C0225,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,58,2024-09-15
+C0226,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,54,2023-01-01
+C0227,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,25,2023-01-01
+C0228,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,44,2023-01-01
+C0229,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,51,2025-08-02
+C0230,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,28,2023-01-01
+C0231,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,52,2023-01-01
+C0232,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,48,2023-01-01
+C0233,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,60,2023-01-01
+C0234,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,40,2023-01-01
+C0235,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,52,2023-01-01
+C0236,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,17,2023-01-01
+C0237,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,58,2023-01-01
+C0238,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,31,2023-01-01
+C0239,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,39,2024-05-21
+C0240,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,43,2025-01-11
+C0241,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,43,2023-06-10
+C0242,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,38,2023-01-01
+C0243,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,49,2023-01-01
+C0244,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,31,2023-01-01
+C0245,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,51,2023-01-01
+C0246,CALABARZON,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,45,2023-01-01
+D0247,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,68,2023-01-01
+D0248,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,118,2023-01-01
+D0249,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,138,2023-01-01
+D0250,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,166,2023-01-01
+D0251,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,174,2023-01-01
+D0252,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,201,2023-01-01
+D0253,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,160,2023-01-01
+D0254,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,132,2023-01-01
+D0255,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,98,2023-01-01
+D0256,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,70,2023-02-07
+D0257,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,99,2023-01-01
+D0258,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,109,2023-01-01
+D0259,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,78,2025-08-25
+D0260,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,138,2023-01-01
+D0261,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,102,2023-01-01
+D0262,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,198,2023-05-07
+D0263,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,124,2023-01-01
+D0264,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,204,2023-01-01
+D0265,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,167,2023-01-01
+D0266,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,53,2023-01-01
+D0267,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,116,2023-01-01
+D0268,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,96,2023-01-01
+D0269,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,80,2023-01-01
+D0270,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,93,2023-01-01
+D0271,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,134,2023-01-01
+D0272,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,144,2024-07-05
+D0273,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,107,2023-01-01
+D0274,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,91,2023-01-01
+D0275,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,91,2023-01-01
+D0276,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,163,2023-01-01
+D0277,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,167,2023-01-01
+D0278,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,75,2023-08-03
+D0279,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,122,2023-01-01
+D0280,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,82,2023-01-01
+D0281,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,88,2023-01-01
+D0282,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,102,2023-01-01
+D0283,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,199,2023-01-01
+D0284,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,92,2023-01-01
+D0285,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,108,2023-01-01
+D0286,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,173,2023-01-01
+D0287,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,201,2023-01-01
+D0288,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,142,2023-01-01
+D0289,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,99,2023-01-01
+D0290,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,76,2023-01-01
+D0291,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,136,2024-03-29
+D0292,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,63,2023-01-01
+D0293,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,83,2025-03-19
+D0294,Central Luzon,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,106,2024-12-28
+B0295,Central Luzon,Luzon,PLANT-LUZ,B2B,LPG B2B,Institution,116,2025-03-26
+B0296,Central Luzon,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,87,2023-01-01
+B0297,Central Luzon,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,117,2023-01-01
+B0298,Central Luzon,Luzon,PLANT-LUZ,B2B,LPG B2B,Industrial,102,2023-01-01
+B0299,Central Luzon,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,142,2023-01-01
+B0300,Central Luzon,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,79,2023-01-01
+B0301,Central Luzon,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,120,2023-01-01
+B0302,Central Luzon,Luzon,PLANT-LUZ,B2B,LPG B2B,Industrial,122,2025-04-10
+B0303,Central Luzon,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,69,2023-01-01
+B0304,Central Luzon,Luzon,PLANT-LUZ,B2B,LPG B2B,Hotel,82,2025-03-07
+B0305,Central Luzon,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,108,2023-01-01
+B0306,Central Luzon,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,88,2023-01-01
+B0307,Central Luzon,Luzon,PLANT-LUZ,B2B,LPG B2B,Hotel,123,2023-01-01
+B0308,Central Luzon,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,100,2023-01-01
+B0309,Central Luzon,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,94,2023-01-01
+C0310,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,88,2023-01-01
+C0311,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,104,2023-01-01
+C0312,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,126,2024-02-22
+C0313,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,116,2023-01-01
+C0314,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,108,2023-01-01
+C0315,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,81,2023-01-01
+C0316,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,102,2023-01-01
+C0317,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,165,2025-01-17
+C0318,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,68,2023-01-01
+C0319,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,122,2023-01-01
+C0320,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,107,2023-01-01
+C0321,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,137,2023-01-01
+C0322,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,58,2024-04-03
+C0323,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,130,2025-04-15
+C0324,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,117,2023-08-12
+C0325,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,111,2023-01-01
+C0326,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,53,2025-07-18
+C0327,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,48,2023-01-01
+C0328,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,140,2023-01-01
+C0329,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,95,2025-06-20
+C0330,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,171,2023-12-05
+C0331,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,144,2023-01-01
+C0332,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,77,2023-01-01
+C0333,Central Luzon,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,100,2023-01-01
+D0334,Ilocos,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,510,2024-09-12
+D0335,Ilocos,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,275,2023-01-01
+D0336,Ilocos,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,489,2023-01-01
+D0337,Ilocos,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,423,2023-01-01
+D0338,Ilocos,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,278,2023-01-01
+D0339,Ilocos,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,247,2023-01-01
+D0340,Ilocos,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,161,2023-01-01
+D0341,Ilocos,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,372,2023-01-01
+D0342,Ilocos,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,398,2023-05-01
+D0343,Ilocos,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,486,2023-01-01
+D0344,Ilocos,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,592,2024-03-21
+B0345,Ilocos,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,494,2023-01-01
+B0346,Ilocos,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,433,2023-01-01
+B0347,Ilocos,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,263,2023-01-01
+B0348,Ilocos,Luzon,PLANT-LUZ,B2B,LPG B2B,Industrial,414,2025-02-07
+B0349,Ilocos,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,276,2023-01-01
+C0350,Ilocos,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,493,2023-01-01
+C0351,Ilocos,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,402,2023-01-01
+C0352,Ilocos,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,369,2023-01-01
+C0353,Ilocos,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,350,2023-09-06
+C0354,Ilocos,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,399,2023-01-01
+C0355,Ilocos,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,551,2023-01-01
+C0356,Ilocos,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,354,2025-05-04
+C0357,Ilocos,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,252,2023-01-01
+D0358,Bicol,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,287,2023-04-03
+D0359,Bicol,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,329,2023-01-01
+D0360,Bicol,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,358,2023-01-01
+D0361,Bicol,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,320,2023-01-01
+D0362,Bicol,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,325,2023-01-01
+D0363,Bicol,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,355,2023-01-01
+D0364,Bicol,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,247,2024-12-30
+D0365,Bicol,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,433,2023-01-01
+D0366,Bicol,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,321,2023-01-01
+D0367,Bicol,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,373,2024-05-19
+D0368,Bicol,Luzon,PLANT-LUZ,B2C,LPG B2C,Dealer,251,2025-05-24
+B0369,Bicol,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,360,2023-01-01
+B0370,Bicol,Luzon,PLANT-LUZ,B2B,LPG B2B,Industrial,411,2023-01-01
+B0371,Bicol,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,269,2024-08-18
+B0372,Bicol,Luzon,PLANT-LUZ,B2B,LPG B2B,Restaurant,224,2023-01-01
+B0373,Bicol,Luzon,PLANT-LUZ,B2B,LPG B2B,Industrial,397,2023-01-01
+B0374,Bicol,Luzon,PLANT-LUZ,B2B,LPG B2B,Hotel,330,2024-04-21
+C0375,Bicol,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,285,2023-01-01
+C0376,Bicol,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,553,2023-01-01
+C0377,Bicol,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,226,2023-01-01
+C0378,Bicol,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,256,2023-01-01
+C0379,Bicol,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,265,2024-01-27
+C0380,Bicol,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,298,2023-01-01
+C0381,Bicol,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,185,2023-01-01
+C0382,Bicol,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,432,2023-01-01
+C0383,Bicol,Luzon,PLANT-LUZ,Canister,Canister,Canister distributor,203,2023-01-01
+D0384,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,239,2023-01-01
+D0385,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,193,2023-01-01
+D0386,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,162,2023-01-01
+D0387,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,267,2023-03-02
+D0388,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,218,2023-03-10
+D0389,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,201,2023-01-01
+D0390,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,200,2023-01-01
+D0391,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,226,2023-01-01
+D0392,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,146,2023-01-01
+D0393,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,277,2023-01-01
+D0394,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,238,2023-01-01
+D0395,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,335,2023-01-01
+D0396,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,325,2023-01-01
+D0397,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,216,2023-01-01
+D0398,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,221,2023-01-01
+D0399,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,143,2023-01-01
+D0400,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,207,2023-01-01
+D0401,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,189,2023-01-01
+D0402,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,197,2023-01-01
+D0403,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,139,2023-05-25
+D0404,Western Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,239,2023-01-01
+B0405,Western Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Restaurant,235,2023-01-01
+B0406,Western Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Industrial,217,2023-04-24
+B0407,Western Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Institution,245,2023-01-01
+B0408,Western Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Hotel,115,2023-01-01
+B0409,Western Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Restaurant,198,2023-01-01
+B0410,Western Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Institution,206,2023-01-01
+B0411,Western Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Restaurant,210,2023-01-01
+B0412,Western Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Institution,254,2023-01-01
+C0413,Western Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,259,2023-01-01
+C0414,Western Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,297,2023-01-01
+C0415,Western Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,157,2023-05-21
+C0416,Western Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,165,2023-01-01
+C0417,Western Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,207,2023-01-01
+C0418,Western Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,238,2023-01-01
+C0419,Western Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,242,2023-01-01
+C0420,Western Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,275,2024-02-17
+C0421,Western Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,175,2023-12-15
+C0422,Western Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,181,2024-10-20
+C0423,Western Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,175,2023-01-01
+C0424,Western Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,278,2023-01-01
+C0425,Western Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,255,2023-01-01
+D0426,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,36,2023-01-01
+D0427,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,24,2023-01-01
+D0428,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,51,2023-01-01
+D0429,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,30,2025-02-06
+D0430,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,50,2023-01-01
+D0431,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,33,2023-01-01
+D0432,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,23,2023-01-01
+D0433,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,34,2023-01-01
+D0434,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,49,2023-01-01
+D0435,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,31,2023-11-07
+D0436,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,34,2025-03-30
+D0437,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,42,2023-10-10
+D0438,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,38,2023-07-21
+D0439,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,49,2024-06-08
+D0440,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,48,2023-01-01
+D0441,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,37,2024-11-10
+D0442,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,63,2024-11-06
+D0443,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,26,2023-01-01
+D0444,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,36,2023-01-01
+D0445,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,48,2023-01-01
+D0446,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,38,2023-01-01
+D0447,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,46,2025-01-24
+D0448,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,56,2023-01-01
+D0449,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,37,2023-01-01
+D0450,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,48,2023-01-01
+D0451,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,48,2023-01-01
+D0452,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,49,2023-01-01
+D0453,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,30,2023-01-01
+D0454,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,43,2023-08-18
+D0455,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,45,2025-03-02
+D0456,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,43,2023-01-01
+D0457,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,45,2023-01-01
+D0458,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,14,2023-01-01
+D0459,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,32,2023-01-01
+D0460,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,39,2023-01-01
+D0461,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,42,2023-02-26
+D0462,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,38,2023-01-01
+D0463,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,32,2023-01-01
+D0464,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,40,2023-01-01
+D0465,Central Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,56,2024-09-30
+B0466,Central Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Hotel,32,2024-10-14
+B0467,Central Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Industrial,29,2023-01-01
+B0468,Central Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Hotel,21,2023-01-01
+B0469,Central Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Hotel,39,2023-01-01
+B0470,Central Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Restaurant,44,2024-08-27
+B0471,Central Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Industrial,48,2023-01-01
+B0472,Central Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Industrial,41,2023-01-01
+B0473,Central Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Institution,24,2023-01-01
+B0474,Central Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Restaurant,40,2023-01-01
+B0475,Central Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Industrial,20,2023-01-01
+B0476,Central Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Hotel,51,2023-01-01
+C0477,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,22,2023-01-01
+C0478,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,24,2023-08-04
+C0479,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,51,2023-01-01
+C0480,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,42,2023-01-01
+C0481,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,26,2023-01-01
+C0482,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,49,2024-12-09
+C0483,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,41,2024-04-24
+C0484,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,54,2024-12-14
+C0485,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,48,2023-01-01
+C0486,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,53,2023-01-01
+C0487,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,48,2023-01-01
+C0488,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,32,2023-11-04
+C0489,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,43,2023-01-01
+C0490,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,24,2023-01-01
+C0491,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,46,2023-01-01
+C0492,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,48,2023-01-01
+C0493,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,43,2023-01-01
+C0494,Central Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,27,2023-01-01
+D0495,Eastern Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,262,2023-01-01
+D0496,Eastern Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,288,2023-01-01
+D0497,Eastern Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,289,2023-11-07
+D0498,Eastern Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,205,2023-01-01
+D0499,Eastern Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,296,2023-01-01
+D0500,Eastern Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,169,2023-01-01
+D0501,Eastern Visayas,Visayas,PLANT-VIS,B2C,LPG B2C,Dealer,270,2023-01-01
+B0502,Eastern Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Hotel,328,2023-01-01
+B0503,Eastern Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Industrial,226,2023-01-01
+B0504,Eastern Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Industrial,183,2023-03-02
+B0505,Eastern Visayas,Visayas,PLANT-VIS,B2B,LPG B2B,Industrial,310,2023-01-01
+C0506,Eastern Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,225,2023-01-01
+C0507,Eastern Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,167,2023-01-01
+C0508,Eastern Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,327,2023-01-01
+C0509,Eastern Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,337,2023-01-01
+C0510,Eastern Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,209,2023-01-01
+C0511,Eastern Visayas,Visayas,PLANT-VIS,Canister,Canister,Canister distributor,192,2023-01-01
+D0512,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,73,2023-09-12
+D0513,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,35,2023-01-01
+D0514,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,64,2024-06-22
+D0515,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,27,2023-01-01
+D0516,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,32,2023-01-01
+D0517,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,69,2023-01-01
+D0518,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,42,2023-06-22
+D0519,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,54,2023-01-01
+D0520,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,23,2023-01-01
+D0521,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,34,2023-01-01
+D0522,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,56,2023-01-01
+D0523,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,41,2023-01-01
+D0524,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,75,2023-01-01
+D0525,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,50,2023-01-01
+D0526,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,59,2025-06-17
+D0527,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,56,2023-01-01
+D0528,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,30,2023-01-01
+D0529,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,60,2023-01-01
+D0530,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,62,2023-01-01
+D0531,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,17,2023-01-01
+D0532,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,48,2023-01-01
+D0533,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,41,2023-01-01
+D0534,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,44,2023-01-01
+D0535,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,44,2023-08-24
+D0536,Davao Region,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,64,2023-06-06
+B0537,Davao Region,Mindanao,PLANT-MIN,B2B,LPG B2B,Restaurant,33,2023-01-01
+B0538,Davao Region,Mindanao,PLANT-MIN,B2B,LPG B2B,Industrial,45,2023-01-01
+B0539,Davao Region,Mindanao,PLANT-MIN,B2B,LPG B2B,Restaurant,56,2023-01-01
+B0540,Davao Region,Mindanao,PLANT-MIN,B2B,LPG B2B,Industrial,68,2023-01-01
+B0541,Davao Region,Mindanao,PLANT-MIN,B2B,LPG B2B,Hotel,65,2025-01-29
+B0542,Davao Region,Mindanao,PLANT-MIN,B2B,LPG B2B,Restaurant,53,2023-01-01
+B0543,Davao Region,Mindanao,PLANT-MIN,B2B,LPG B2B,Restaurant,58,2023-01-01
+C0544,Davao Region,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,52,2023-01-01
+C0545,Davao Region,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,28,2023-01-01
+C0546,Davao Region,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,58,2023-01-01
+C0547,Davao Region,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,69,2023-01-01
+C0548,Davao Region,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,54,2023-01-01
+C0549,Davao Region,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,62,2023-01-01
+C0550,Davao Region,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,54,2024-05-23
+C0551,Davao Region,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,50,2023-01-01
+C0552,Davao Region,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,49,2023-01-01
+C0553,Davao Region,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,57,2023-01-01
+C0554,Davao Region,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,47,2023-01-01
+C0555,Davao Region,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,39,2023-01-01
+D0556,Northern Mindanao,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,225,2023-05-29
+D0557,Northern Mindanao,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,174,2023-01-01
+D0558,Northern Mindanao,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,250,2023-01-01
+D0559,Northern Mindanao,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,272,2024-12-10
+D0560,Northern Mindanao,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,237,2025-07-20
+D0561,Northern Mindanao,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,282,2023-01-01
+D0562,Northern Mindanao,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,364,2023-01-01
+D0563,Northern Mindanao,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,106,2023-05-24
+D0564,Northern Mindanao,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,267,2023-01-01
+D0565,Northern Mindanao,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,172,2023-01-01
+D0566,Northern Mindanao,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,375,2023-01-01
+D0567,Northern Mindanao,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,279,2023-01-01
+B0568,Northern Mindanao,Mindanao,PLANT-MIN,B2B,LPG B2B,Industrial,243,2023-01-01
+B0569,Northern Mindanao,Mindanao,PLANT-MIN,B2B,LPG B2B,Restaurant,305,2023-10-15
+B0570,Northern Mindanao,Mindanao,PLANT-MIN,B2B,LPG B2B,Restaurant,243,2023-01-01
+B0571,Northern Mindanao,Mindanao,PLANT-MIN,B2B,LPG B2B,Institution,393,2023-01-01
+B0572,Northern Mindanao,Mindanao,PLANT-MIN,B2B,LPG B2B,Restaurant,238,2024-07-25
+C0573,Northern Mindanao,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,253,2023-01-01
+C0574,Northern Mindanao,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,348,2023-01-01
+C0575,Northern Mindanao,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,281,2023-01-01
+C0576,Northern Mindanao,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,252,2023-01-01
+C0577,Northern Mindanao,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,184,2023-01-01
+C0578,Northern Mindanao,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,283,2023-01-01
+C0579,Northern Mindanao,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,277,2023-01-01
+C0580,Northern Mindanao,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,187,2023-01-01
+D0581,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,136,2023-01-01
+D0582,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,273,2023-01-01
+D0583,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,52,2025-07-14
+D0584,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,266,2023-01-01
+D0585,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,65,2023-01-01
+D0586,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,128,2024-08-28
+D0587,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,179,2024-06-14
+D0588,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,184,2025-03-17
+D0589,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,148,2023-01-01
+D0590,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,147,2023-01-01
+D0591,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,130,2023-10-31
+D0592,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,173,2025-02-19
+D0593,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,184,2023-01-01
+B0594,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2B,LPG B2B,Industrial,168,2024-05-05
+B0595,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2B,LPG B2B,Industrial,116,2023-01-01
+B0596,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2B,LPG B2B,Restaurant,218,2023-01-01
+B0597,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2B,LPG B2B,Hotel,135,2023-01-01
+B0598,SOCCSKSARGEN,Mindanao,PLANT-MIN,B2B,LPG B2B,Hotel,170,2023-01-01
+C0599,SOCCSKSARGEN,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,254,2025-05-29
+C0600,SOCCSKSARGEN,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,175,2023-01-01
+C0601,SOCCSKSARGEN,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,213,2023-01-01
+C0602,SOCCSKSARGEN,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,148,2023-01-01
+C0603,SOCCSKSARGEN,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,148,2023-01-01
+C0604,SOCCSKSARGEN,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,263,2024-09-27
+C0605,SOCCSKSARGEN,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,197,2023-01-01
+C0606,SOCCSKSARGEN,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,236,2023-01-01
+D0607,Zamboanga Peninsula,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,473,2023-01-01
+D0608,Zamboanga Peninsula,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,431,2023-01-01
+D0609,Zamboanga Peninsula,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,437,2024-05-02
+D0610,Zamboanga Peninsula,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,418,2024-12-16
+D0611,Zamboanga Peninsula,Mindanao,PLANT-MIN,B2C,LPG B2C,Dealer,351,2023-01-01
+B0612,Zamboanga Peninsula,Mindanao,PLANT-MIN,B2B,LPG B2B,Restaurant,404,2023-01-01
+B0613,Zamboanga Peninsula,Mindanao,PLANT-MIN,B2B,LPG B2B,Restaurant,528,2023-01-01
+B0614,Zamboanga Peninsula,Mindanao,PLANT-MIN,B2B,LPG B2B,Restaurant,372,2023-01-01
+C0615,Zamboanga Peninsula,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,447,2023-01-01
+C0616,Zamboanga Peninsula,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,375,2023-01-01
+C0617,Zamboanga Peninsula,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,237,2023-01-01
+C0618,Zamboanga Peninsula,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,276,2023-01-01
+C0619,Zamboanga Peninsula,Mindanao,PLANT-MIN,Canister,Canister,Canister distributor,528,2024-08-11

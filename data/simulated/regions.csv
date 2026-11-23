@@ -1,0 +1,13 @@
+region,island_group,plant,households_k,distance_km
+NCR,Luzon,PLANT-LUZ,3500,60
+CALABARZON,Luzon,PLANT-LUZ,4000,45
+Central Luzon,Luzon,PLANT-LUZ,3000,120
+Ilocos,Luzon,PLANT-LUZ,1300,380
+Bicol,Luzon,PLANT-LUZ,1500,330
+Western Visayas,Visayas,PLANT-VIS,1900,220
+Central Visayas,Visayas,PLANT-VIS,2100,40
+Eastern Visayas,Visayas,PLANT-VIS,1100,260
+Davao Region,Mindanao,PLANT-MIN,1400,50
+Northern Mindanao,Mindanao,PLANT-MIN,1200,250
+SOCCSKSARGEN,Mindanao,PLANT-MIN,1200,180
+Zamboanga Peninsula,Mindanao,PLANT-MIN,900,420
