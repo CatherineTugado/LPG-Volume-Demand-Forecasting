@@ -4,7 +4,7 @@
 
 I forecast weekly orders for each plant, 4 weeks ahead, and compared the forecasts with the plant's current rule (produce last month's average). For LPG B2C the forecast cuts December error from **21.4% to 5.7%**. For the same overproduction, it leaves **30% less unmet demand** across the year.
 
-> ⚠️ **All data is simulated.** Company data is confidential, so `src/lpg/simulate.py` generates a realistic Philippine LPG business (3 plants, 12 regions, about 620 accounts, 60,000 plant visits, 2023-2025). Region names are real; volumes, households and accounts are not. The code runs on real gate-log data with the same columns. **Never commit company data.**
+>  **All data is simulated.** Company data is confidential, so `src/lpg/simulate.py` generates a realistic Philippine LPG business (3 plants, 12 regions, about 620 accounts, 60,000 plant visits, 2023-2025). Region names are real; volumes, households and accounts are not. The code runs on real gate-log data with the same columns. **Never commit company data.**
 
 | Business line | Customers | Unit | How it is planned |
 |---|---|---|---|
